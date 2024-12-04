@@ -4,7 +4,7 @@ The project mainly aims to implement most of the functionality in KDE settings (
 
 ## Project Plan
 
-![project_plan.png](./project_plan.png)
+![project_plan.png](./archbook_project_plan.png)
 
 ## archbookd:
 
