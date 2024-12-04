@@ -1,0 +1,6 @@
+[submodule "archbookctl"]
+	path = archbookctl
+	url = ./archbookctl
+[submodule "archbookd"]
+	path = archbookd
+	url = ./archbookd

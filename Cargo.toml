@@ -1,0 +1,7 @@
+
+[workspace]
+members = [
+  "archbookd",
+  "archbookctl"
+]
+resolver = "2"
